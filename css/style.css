@@ -96,6 +96,12 @@ header .read-more:hover {
   text-transform: uppercase;
 }
 
+.skill-container p {
+  background-color: #1b1c1f;
+  padding: 15px 0;
+  text-align: center;
+}
+
 .skill-container ul {
   margin: 10px 0;
   list-style-type: none;
@@ -235,6 +241,4 @@ footer a:hover {
   footer h3 {
     margin-top: 50px;
   }
-}
-
-/*# sourceMappingURL=style.css.map */
+} /*# sourceMappingURL=main.css.map */
