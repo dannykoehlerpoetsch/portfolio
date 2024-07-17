@@ -74,6 +74,10 @@ header .read-more:hover {
   text-align: center;
 }
 
+#skill-section p {
+  text-align: center;
+}
+
 #skill-section .wrapper {
   display: flex;
   justify-content: center;
